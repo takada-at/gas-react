@@ -1,0 +1,3 @@
+action	name	parameters	action_parameters
+GET_SHEET_VALUES	getSheetValues	col	
+LOAD_MAIL	getUserEmail		
